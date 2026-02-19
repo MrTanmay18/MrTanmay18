@@ -11,19 +11,20 @@ MIT-WPU
 Mumbai University
 
 📘 Relevant Coursework:
-Statistics & Probability
-Database Management Systems
-Machine Learning 
-Data Analytics
+Statistics & Probability,
+Data Analytics,
+Database Management Systems,
+Machine Learning. 
+
 
 💼 Work Experience
 Executive at
 Gandhi Automations Pvt Ltd | April 2024-July 2025
 
-Worked in Gandhi Automations Pvt Ltd in quotation and tendering department.
-Prepared analytical reports, bids, and technical tenders.
-Performed data-driven decision-making and cost analysis.
-Strengthened problem-solving and analytical thinking skills.
+- Worked in Gandhi Automations Pvt Ltd in quotation and tendering department.
+- Prepared analytical reports, bids, and technical tenders.
+- Performed data-driven decision-making and cost analysis.
+- Strengthened problem-solving and analytical thinking skills.
 
 
 🌱 Currently Learning
