@@ -20,20 +20,20 @@ Data Analytics
 Executive at
 Gandhi Automations Pvt Ltd | April 2024-July 2025
 
-Worked in Gandhi Automations Pvt Ltd in quotation and tendering department
-Prepared analytical reports, bids, and technical tenders
-Performed data-driven decision-making and cost analysis
-Strengthened problem-solving and analytical thinking skills
+Worked in Gandhi Automations Pvt Ltd in quotation and tendering department.
+Prepared analytical reports, bids, and technical tenders.
+Performed data-driven decision-making and cost analysis.
+Strengthened problem-solving and analytical thinking skills.
 
 
 🌱 Currently Learning
 Deep Learning
 
 🛠️ Technical Skills
-Languages: Python, SQL
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-Tools: Power BI, Excel, Jupyter Notebook, pycharm
-Concepts: EDA, Data Cleaning, Feature Engineering, Model Evaluation
+- Languages: Python, SQL
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Tools: Power BI, Excel, Jupyter Notebook, pycharm
+- Concepts: EDA, Data Cleaning, Feature Engineering, Model Evaluation
 
 🚀 Career Objective
 To leverage data science and analytical skills to solve real-world business problems and contribute to impactful data-driven decision-making.
