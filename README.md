@@ -1,6 +1,6 @@
 👋 Hi, I'm Tanmay
 
-🎯 Aspiring Data Scientist | Data Analytics Enthusiast | Problem Solver
+🎯 Data Scientist | Data Analyst | Problem Solver
 
 I am passionate about transforming data into actionable insights and building data-driven solutions. With a strong analytical mindset and a background in technical and analytical work, I am currently advancing my skills in Data Science, Machine Learning, and Business Intelligence.
 
