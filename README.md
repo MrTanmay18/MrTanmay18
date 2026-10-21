@@ -6,8 +6,7 @@ I'm an **M.Sc. Mathematics & Data Science student at MIT-WPU, Pune**, with hands
 
 I enjoy solving real-world problems using data-driven approaches and building practical AI solutions, from machine learning models to LLM-powered applications.
 
-🎯 **Currently:** Data Science Intern at AtliQ Technologies  
-🌱 **Exploring:** Deep Learning, NLP, Generative AI & Agentic AI  
+🎯 **Currently:** Data Science Intern at AtliQ Technologies   
 🤝 **Open to:** Data Science, Machine Learning, and AI opportunities
 
 ---
