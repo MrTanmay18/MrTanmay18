@@ -113,4 +113,4 @@ I enjoy solving real-world problems using data-driven approaches and building pr
 - 📧 **Email:** tanmaypakori@gmail.com
 
 *Learning continuously, building practical solutions, and exploring the possibilities of AI.* 🚀
-ry-level opportunities in Data Science and Analytics.
+
